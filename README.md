@@ -1,8 +1,8 @@
 ![Header](/images/header.png)
 
-#### Hello there!
+### Hello there!
 
-##### my name is Jade :butterfly:
+#### my name is Jade :butterfly:
 
 I started my path in programming since I was in last year of elementary school, then in 2018 I started working as a developer until today. I am currently in the middle of my engineering degree.
 
@@ -32,7 +32,7 @@ mySkills = {
 }
 ```
 
-![IPN](/images/ipn-icon.png")
+![IPN](/images/ipn-icon.png)
 Computer Engineering Student
 Programming Technician
 Instituto Politécnico Nacional | UPIICSA - CECyT9
