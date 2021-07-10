@@ -33,5 +33,5 @@ mySkills = {
 
 ![IPN](/images/ipn-icon.png)
 Computer Engineering Student |
-Programming Technician
+Programming Technician |
 Instituto Politécnico Nacional | UPIICSA - CECyT9
