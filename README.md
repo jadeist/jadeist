@@ -1,5 +1,8 @@
 ![Header](/images/header.png)
-####Hello there, my name is Jade :butterfly:
+
+#### Hello there!
+
+##### my name is Jade :butterfly:
 
 I started my path in programming since I was in last year of elementary school, then in 2018 I started working as a developer until today. I am currently in the middle of my engineering degree.
 
@@ -29,12 +32,7 @@ mySkills = {
 }
 ```
 
-<div style="text-align:left; float: left;
-  width: 10%; align-items: center;">
-  <img src="/images/ipn-icon.png" />
-</div>
-<div style="text-align:left; float: left;
-  width: 90%; font-size: 14px;"> Computer Engineering Student<br> Programming Technician <br> Instituto Politécnico Nacional |  UPIICSA - CECyT9
-  </div>
-
-<!-- <blockquote> <em>Creativity comes from applying things you learn in other fields to the field you work in. </em> <br> - Aaron Swartz </blockquote> -->
+![IPN](/images/ipn-icon.png")
+Computer Engineering Student
+Programming Technician
+Instituto Politécnico Nacional | UPIICSA - CECyT9
