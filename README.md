@@ -21,12 +21,11 @@ mySkills = {
         "Java": [Jackson, JDBC, JUnit],
         "SQL": [MySQL, PostgreSQL, Oracle, SQLServer],
         "NoSQL": [MongoDB, Firestore],
-        "others": [C, C++, C#, PHP, .NET, AWS, Android, Azure, 
+        "others": [C, C++, Csharp, PHP, .NET, AWS, Android, Azure, 
         GCP, Assembly],
     },
-    "soft": [strategic planning, teamwork,
-    problem solving, team leadership,
-    requirements engineering, working under pressure]
+    "soft": [strategic planning, teamwork, problem solving,
+    team leadership, requirements engineering, working under pressure]
 }
 ```
 
