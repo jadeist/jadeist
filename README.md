@@ -1,5 +1,6 @@
 ![Header](/images/header.png)
-####Hello, my name is Jade :butterfly:
+####Hello there, my name is Jade :butterfly:
+
 I started my path in programming since I was in last year of elementary school, then in 2018 I started working as a developer until today. I am currently in the middle of my engineering degree.
 
 -   🔭 I’m currently working as a Backend Developer
