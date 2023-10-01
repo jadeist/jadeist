@@ -10,8 +10,8 @@ I am still finishing college
 ```python
 mySkills = {
     "tech": {
-        "python": [Django, Flask, RobotFramework],
-        "cloud": [GCP, S3]
+        "python": [PySpark, Django, Flask, RobotFramework],
+        "cloud": [GCP, S3],
         "javascript": [Node, React, Express, Angular, Typescript],
         "others": [Java, C, PHP, .NET, AWS, Android, Azure, 
         GCP, Assembly],
